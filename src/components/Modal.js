@@ -94,7 +94,7 @@ export default function Modal(props) {
                     type="button"
                     className="bg-[#ed333b] text-white font-bold py-2 px-5 border-b-4 border-purple-500 hover:bg-purple-500 rounded-lg absolute bottom-3"
                   >
-                    <a href="https://api.whatsapp.com/send?phone=6288809773289&text=Iyah%20Aku%bt">
+                    <a href="https://api.whatsapp.com/send?phone=6288809773289&text=Terimakasih yah">
                       <button onclick="next()" class="btn1">
                         Iyah
                       </button>
